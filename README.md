@@ -1,23 +1,20 @@
-# SmartContracLanding
+# SmartLanding
 
-Uma landing page moderna construída com **TypeScript**, **React** e **Tailwind CSS** para apresentar soluções de Smart Contracts.
+Uma landing page moderna e responsiva construída com TypeScript e CSS, focada em apresentar soluções inteligentes de forma clara e impactante.
 
 ## 🎯 Sobre o Projeto
 
-SmartContracLanding é uma aplicação web responsiva desenvolvida com as tecnologias mais modernas do mercado. O projeto utiliza **Vite** como bundler para uma experiência de desenvolvimento rápida e otimizada.
+SmartLanding é uma página de aterrissagem (landing page) profissional desenvolvida com tecnologias modernas. O projeto apresenta um design limpo, responsivo e otimizado para conversão.
 
-## 🚀 Tecnologias
+## 🛠️ Tecnologias Utilizadas
 
-- **Frontend Framework**: React com TypeScript
-- **Estilização**: Tailwind CSS + PostCSS
-- **Bundler**: Vite
-- **Linting**: ESLint
-- **Componentes**: Componentes personalizados com suporte a UI/UX modernos
-- **Build Tool**: TypeScript para tipagem estática e segurança de tipos
+- **TypeScript** (97.5%) - Linguagem principal do projeto
+- **CSS** (1.5%) - Estilização e design responsivo
+- **Outras** (1%) - Ferramentas e dependências adicionais
 
-### Composição do Código
-- **TypeScript**: 97.6%
-- **CSS**: 1.4%
-- **Outros**: 1%
+## 🚀 Funcionalidades
 
-## 📁 Estrutura do Projeto
+- Design responsivo e moderno
+- Otimizado para todos os dispositivos
+- Código limpo e bem estruturado
+- Performance otimizada
